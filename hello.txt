@@ -1,5 +1,6 @@
 hello
 word 
-seung yeon in seoul
+seung yeon in seoul imhak
+
 
 
