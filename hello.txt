@@ -1,5 +1,4 @@
-hello
-word 
+hello word (한줄로 합춤)
 seung yeon in seoul imhak
 
 
